@@ -1,4 +1,4 @@
-Project name : Costaurant
+Project name : Sungstaurant's Menu
 
 Description:
 
